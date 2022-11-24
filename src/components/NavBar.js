@@ -13,9 +13,9 @@ const NavBar = () => {
             <Nav.Link as={Link} to='/'>
                 Home
             </Nav.Link>
-            <Nav.Link as={Link} to='/category/MasComprado'>Mas Comprado</Nav.Link>
-            <Nav.Link as={Link} to='/category/Temporada2022'>Temporada 2022</Nav.Link>
-            <Nav.Link as={Link} to='/category/Temporada2023'>Temporada 2023</Nav.Link>
+            <Nav.Link as={Link} to='/category/Rustico'>Rustico</Nav.Link>
+            <Nav.Link as={Link} to='/category/Tapiceria'>Tapiceria</Nav.Link>
+            <Nav.Link as={Link} to='/category/Cortina'>Temporada 2023</Nav.Link>
             <Nav.Link as={Link} to='/category/Sale'>SALE</Nav.Link>
         </Nav>
         <CartWidget />
