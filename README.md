@@ -7,7 +7,7 @@ Este proyecto fue  creado con :
 - Firebase
 
 ## Demo
-![] https://firebasestorage.googleapis.com/v0/b/e-commerce-coder1.appspot.com/o/Recording%202022-11-24%20at%2018.38.26.gif?alt=media&token=68b6341c-ee4c-4f2a-94e8-7865f7be5d9f
+![] https://firebasestorage.googleapis.com/v0/b/e-commerce-coder1.appspot.com/o/Recording%202022-11-24%20at%2019.54.19.gif?alt=media&token=b2cc7915-eb7d-4ec1-b068-c7eca23f3492
 
 ## Estructura de directorios
 - `/components`
